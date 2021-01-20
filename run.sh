@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-DATA_DIR=/data
+DATA_DIR=/content/drive/MyDrive/data
 src=fa
 tgt=en
 #random_list=$(python3 -c 'import random; random.seed(0); print(" ".join([random.randint(0, 1000) for _ in range(10)]))') # random seeds
